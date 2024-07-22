@@ -10,6 +10,7 @@ This project is a simple React application that demonstrates basic animation. In
 - **Snapshot**: Users can capture the current state of the animation and downloads it as a PNG image by clicking the "Snapshot" button. 
 
 ## Demo
+Try it out! [here](https://animation-project-omega.vercel.app/).
 
 ## Technologies Used
 - React
@@ -17,7 +18,6 @@ This project is a simple React application that demonstrates basic animation. In
 - CSS3
 - JavaScript
 - html2canvas
-
 
 ## Setup Instructions
 To set up and run this project locally, follow these steps:
